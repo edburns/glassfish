@@ -1,32 +1,39 @@
+# Tutorials
+
+* [Java EE 8 First Cup](https://javaee.github.io/firstcup/)
+* [Java EE 8 Tutorial](https://javaee.github.io/tutorial/)
+
+# API Documentation and Tag Reference
+
+* [Java EE 8 Specification APIs](https://javaee.github.io/javaee-spec/javadocs/)
+* [JavaServer Faces 2.3 Facelets Tag Library Documentation](doc/5.0/vdldoc/index.html)
+* [JavaServer Faces 2.3 JSP Tag Library Documentation](doc/5.0/vdldocs/jsp/index.html)
+* [JavaServer Faces 2.3 Standard HTML RenderKit Documentation](doc/5.0/renderkitdocs/index.html)
+* [JavaServer Faces 2.3 JavaScript Documentation](doc/5.0/jsdocs/index.html)
+
+
 # GlassFish Server Documentation
 
-* [Quick Start Guide](doc/4.0/quick-start-guide.pdf)
-* [Installation Guide](doc/4.0/installation-guide.pdf)
-* [GF 4.1 Release Notes](doc/4.0/release-notes.pdf)
-* [Administration Guide](doc/4.0/administration-guide.pdf)
-* [Application Deployment Guide](doc/4.0/application-deployment-guide.pdf)
-* [Deployment Planning Guide](doc/4.0/deployment-planning-guide.pdf)
-* [Application Development Guide](doc/4.0/application-development-guide.pdf)
-* [Embedded Server Guide](doc/4.0/embedded-server-guide.pdf)
-* [Performance Tuning Guide](doc/4.0/performance-tuning-guide.pdf)
-* [Reference Manual](doc/4.0/reference-manual.pdf)
-* [Error Message Reference](doc/4.0/error-message-reference.pdf)
-* [Troubleshooting Guide](doc/4.0/troubleshooting-guide.pdf)
-* [Upgrade Guide](doc/4.0/upgrade-guide.pdf)
-* [Security Guide](doc/4.0/security-guide.pdf)
-* [High Availability Administration Guide](doc/4.0/ha-administration-guide.pdf)
-* [GF 4.0 Open Source Edition Certification Matrix](doc/4.0/glassfish40cert-matrix.xls)
+* [GlassFish Server 5.0 Release Notes](doc/5.0/release-notes.pdf)
+* [Installation Guide](doc/5.0/installation-guide.pdf)
+* [Quick Start Guide](doc/5.0/quick-start-guide.pdf)
+* [Administration Guide](doc/5.0/administration-guide.pdf)
+* [Application Development Guide](doc/5.0/application-development-guide.pdf)
+* [Application Deployment Guide](doc/5.0/application-deployment-guide.pdf)
+* [Security Guide](doc/5.0/security-guide.pdf)
+* [Reference Manual](doc/5.0/reference-manual.pdf)
+* [Error Messages Reference](doc/5.0/error-messages-reference.pdf)
 
 # Open MQ Documentation
 
+* [Open MQ Release Notes](doc/5.0/mq-release-notes.pdf)
 * [Technical Overview](doc/4.0/mq-tech-over.pdf)
-* [Release Notes](doc/4.0/mq-relnotes.pdf)
 * [Developer's Guide for Java Clients](doc/4.0/mq-dev-guide-java.pdf)
 * [Developer's Guide for JMX Clients](doc/4.0/mq-dev-guide-jmx.pdf)
 * [Developer's Guide for C Clients](doc/4.0/mq-dev-guide-c.pdf)
 * [Administration Guide](doc/4.0/mq-admin-guide.pdf)
 
-# Tutorials
+# Documentation for Previous Releases (archive)
 
-* [Java EE 7 Your First Cup](https://docs.oracle.com/javaee/7/firstcup/index.html)
-* [Java EE 7 Tutorial](https://docs.oracle.com/javaee/7/tutorial/)
+* [GlassFish 4.0 and Java EE 7](documentation4)
+
